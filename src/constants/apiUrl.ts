@@ -1,6 +1,6 @@
 export const Api = {
   ENVIROMENT: {
-    DEVELOPMENT: 'http://192.168.100.47:8000/api',
+    DEVELOPMENT: 'https://api.universalworldtechnologyec.online/api',
     PRODUCTION: 'https://api.universalworldtechnologyec.online/api'
   },
   LOGIN: '/iniciarsesion',
